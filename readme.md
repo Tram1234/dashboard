@@ -1,6 +1,5 @@
 dashboard React
 
-this is application for intsight
 
 Dependencies:
 node 6.8.1 and higher prefereble 6.9.1
