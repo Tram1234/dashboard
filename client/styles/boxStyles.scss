@@ -1,0 +1,24 @@
+@import "colors";
+
+.boxTypes{
+    margin-left:1%;
+    min-width: 25%;
+    background-color: $innerBoxColor;
+    canvas{
+        margin-top:5%;
+        margin-bottom:5%;
+    }
+}
+.title{
+    padding-left:5%;
+    line-height:2;
+    height:10%;
+    background-color:$boxTitleColor;
+}
+.listStyle{
+    list-style: none;
+    display: inline-block;
+    li{
+
+    }
+}

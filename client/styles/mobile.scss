@@ -1,0 +1,13 @@
+@media only screen
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+  .webTypes {
+    flex-direction: column;
+  }
+  .mobile {
+    margin: 0 auto;
+  }
+
+
+}

@@ -1,0 +1,61 @@
+@import "colors";
+@import "boxStyles";
+@import "fonts";
+@import "typebox";
+@import "sourcesStyles";
+@import "mobile";
+
+
+
+.icbergStyles {
+    width: 182px;
+}
+
+.main-flex {
+    display: flex;
+    flex-direction: column;
+    background-color:$mainColor ;
+    color: $textColor;
+
+}
+
+.webTypes {
+    flex-direction: row;
+    display: flex;
+    margin:2.5% 0 2.5% 0;
+}
+
+.flex-grid .col {
+    flex: 1;
+}
+.flex-grid-thirds {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+* {
+    padding:0;
+    box-sizing: border-box;
+    font-weight:lighter;
+    font-family:sans-serif;
+}
+body {
+    font-size:0.7rem;
+    padding: 20px;
+    background-color: #192834;
+
+}
+.flex-grid {
+    margin: 0 0 20px 0;
+}
+.clearfix {
+    overflow: auto;
+}
+
+.webTypeTitle{
+    text-align:center;
+}
+
+
+
