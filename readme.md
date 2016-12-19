@@ -1,4 +1,4 @@
-Intsight test app
+dashboard React
 
 this is application for intsight
 
